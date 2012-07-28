@@ -33,7 +33,7 @@ namespace App4
         FoundUser obj = new FoundUser();
         public MainPage()
         {
-            key1 = "please enter your key here";
+            key1 = "plzzzzzzzzzzzzzzzzzzzzzz enter ur key here";
             Windows.Storage.ApplicationDataContainer localSettings =
                Windows.Storage.ApplicationData.Current.LocalSettings;
             if (localSettings.Values.ContainsKey("userName"))
